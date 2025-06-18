@@ -1,0 +1,228 @@
+{
+  "countries": [
+    {
+      "id": 1,
+      "name": "United States",
+      "code": "USA",
+      "flag": "/media/images/flags/usa.png",
+      "medals": {
+        "gold": 25,
+        "silver": 20,
+        "bronze": 15,
+        "disciplines": {
+          "swimming": {
+            "gold": 10,
+            "silver": 8,
+            "bronze": 5
+          },
+          "athletics": {
+            "gold": 8,
+            "silver": 6,
+            "bronze": 4
+          },
+          "gymnastics": {
+            "gold": 7,
+            "silver": 6,
+            "bronze": 6
+          }
+        }
+      }
+    },
+    {
+      "id": 2,
+      "name": "China",
+      "code": "CHN",
+      "flag": "/media/images/flags/chn.png",
+      "medals": {
+        "gold": 20,
+        "silver": 18,
+        "bronze": 12,
+        "disciplines": {
+          "swimming": {
+            "gold": 5,
+            "silver": 4,
+            "bronze": 3
+          },
+          "athletics": {
+            "gold": 7,
+            "silver": 8,
+            "bronze": 4
+          },
+          "gymnastics": {
+            "gold": 8,
+            "silver": 6,
+            "bronze": 5
+          }
+        }
+      }
+    },
+    {
+      "id": 3,
+      "name": "France",
+      "code": "FRA",
+      "flag": "/media/images/flags/fra.png",
+      "medals": {
+        "gold": 15,
+        "silver": 12,
+        "bronze": 14,
+        "disciplines": {
+          "swimming": {
+            "gold": 4,
+            "silver": 3,
+            "bronze": 5
+          },
+          "athletics": {
+            "gold": 5,
+            "silver": 4,
+            "bronze": 3
+          },
+          "fencing": {
+            "gold": 6,
+            "silver": 5,
+            "bronze": 6
+          }
+        }
+      }
+    },
+    {
+      "id": 4,
+      "name": "Germany",
+      "code": "GER",
+      "flag": "/media/images/flags/ger.png",
+      "medals": {
+        "gold": 18,
+        "silver": 15,
+        "bronze": 16,
+        "disciplines": {
+          "swimming": {
+            "gold": 6,
+            "silver": 4,
+            "bronze": 5
+          },
+          "cycling": {
+            "gold": 7,
+            "silver": 6,
+            "bronze": 5
+          },
+          "rowing": {
+            "gold": 5,
+            "silver": 5,
+            "bronze": 6
+          }
+        }
+      }
+    },
+    {
+      "id": 5,
+      "name": "Japan",
+      "code": "JPN",
+      "flag": "/media/images/flags/jpn.png",
+      "medals": {
+        "gold": 16,
+        "silver": 14,
+        "bronze": 13,
+        "disciplines": {
+          "judo": {
+            "gold": 8,
+            "silver": 6,
+            "bronze": 5
+          },
+          "gymnastics": {
+            "gold": 5,
+            "silver": 4,
+            "bronze": 4
+          },
+          "karate": {
+            "gold": 3,
+            "silver": 4,
+            "bronze": 4
+          }
+        }
+      }
+    },
+    {
+      "id": 6,
+      "name": "Great Britain",
+      "code": "GBR",
+      "flag": "/media/images/flags/gbr.png",
+      "medals": {
+        "gold": 17,
+        "silver": 16,
+        "bronze": 15,
+        "disciplines": {
+          "cycling": {
+            "gold": 8,
+            "silver": 6,
+            "bronze": 5
+          },
+          "rowing": {
+            "gold": 4,
+            "silver": 5,
+            "bronze": 4
+          },
+          "sailing": {
+            "gold": 5,
+            "silver": 5,
+            "bronze": 6
+          }
+        }
+      }
+    },
+    {
+      "id": 7,
+      "name": "Italy",
+      "code": "ITA",
+      "flag": "/media/images/flags/ita.png",
+      "medals": {
+        "gold": 14,
+        "silver": 13,
+        "bronze": 15,
+        "disciplines": {
+          "fencing": {
+            "gold": 5,
+            "silver": 4,
+            "bronze": 6
+          },
+          "swimming": {
+            "gold": 4,
+            "silver": 4,
+            "bronze": 3
+          },
+          "cycling": {
+            "gold": 5,
+            "silver": 5,
+            "bronze": 6
+          }
+        }
+      }
+    },
+    {
+      "id": 8,
+      "name": "Australia",
+      "code": "AUS",
+      "flag": "/media/images/flags/aus.png",
+      "medals": {
+        "gold": 15,
+        "silver": 14,
+        "bronze": 12,
+        "disciplines": {
+          "swimming": {
+            "gold": 8,
+            "silver": 6,
+            "bronze": 5
+          },
+          "cycling": {
+            "gold": 4,
+            "silver": 4,
+            "bronze": 3
+          },
+          "rowing": {
+            "gold": 3,
+            "silver": 4,
+            "bronze": 4
+          }
+        }
+      }
+    }
+  ]
+}
